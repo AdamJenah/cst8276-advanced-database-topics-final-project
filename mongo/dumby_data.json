@@ -1,0 +1,61 @@
+{
+  "video_games": [
+    {
+      "video_game_id": 4808,
+      "title": "kpkcqbneveap",
+      "genre": [
+        "yvvbvk"
+      ],
+      "year_released": 2020,
+      "platform": [
+        "mnovcq"
+      ],
+      "ESRB_rating": "E",
+      "admin": {
+        "admin_id": 532,
+        "username": "tkkmkxjm",
+        "password": "lwkfetprrghz"
+      }
+    },
+    {
+      "video_game_id": 7368,
+      "title": "ewlqlglhqezh",
+      "genre": [
+        "sffgeu",
+        "cthjij",
+        "tjiygx"
+      ],
+      "year_released": 1990,
+      "platform": [
+        "lbsiio",
+        "nbqrre"
+      ],
+      "ESRB_rating": "M",
+      "admin": {
+        "admin_id": 146,
+        "username": "uoqvbwnq",
+        "password": "igecuobvcvvr"
+      }
+    },
+    {
+      "video_game_id": 8207,
+      "title": "utivanexpzye",
+      "genre": [
+        "cvieaf",
+        "zhjzvu"
+      ],
+      "year_released": 2007,
+      "platform": [
+        "yadsqj",
+        "ajhssu",
+        "herbgw"
+      ],
+      "ESRB_rating": "E",
+      "admin": {
+        "admin_id": 862,
+        "username": "ozffregg",
+        "password": "wqcfgmbimufz"
+      }
+    }
+  ]
+}
