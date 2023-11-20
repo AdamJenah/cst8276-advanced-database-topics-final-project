@@ -1,10 +1,12 @@
 from app.models.database import create_database_if_not_exists
-from app.views.game_view_controller import main as run_console_application
+
+# Import your Kivy App class, assuming it's named MyApp and located in main_view.py
+from app.views.main_view import MyApp
 
 
 def main():
     create_database_if_not_exists()  # Ensure the database exists
-    run_console_application()
+    MyApp().run()  # Run the Kivy App
 
 
 if __name__ == "__main__":
