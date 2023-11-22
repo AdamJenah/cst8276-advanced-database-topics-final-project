@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Read Dead Redemption 2",
+    "genre": [
+      "action",
+      "adventure"
+    ],
+    "year_released": 2018,
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "Windows"
+    ],
+    "ESRB_rating": "M",
+    "admin": {
+      "admin_id": 1,
+      "username": "Ollie",
+      "password": "password"
+    }
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "genre": [
+      "action",
+      "role-playing"
+    ],
+    "year_released": 2011,
+    "platform": [
+      "Microsoft Windows",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "ESRB_rating": "M",
+    "admin": {
+      "admin_id": 1,
+      "username": "Ollie",
+      "password": "password"
+    }
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "genre": [
+      "role-playing"
+    ],
+    "year_released": 2023,
+    "platform": [
+      "Windows",
+      "PlayStation 5",
+      "macOS"
+    ],
+    "ESRB_rating": "M",
+    "admin": {
+      "admin_id": 1,
+      "username": "Ollie",
+      "password": "password"
+    }
+  }
+]
